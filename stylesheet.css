@@ -1,0 +1,59 @@
+
+    	body{
+    		background: #525659;
+    		font-family: Calibri;
+    	}
+    	.parent{
+        width: 21cm;
+        height: 29.7cm;
+        margin: 0 auto; 
+        background: #fff;
+        /*padding: 0 15px;*/
+        margin-top: 50px;
+        /*box-shadow: 0px 0px 5px #000;*/
+        /* change the margins as you want them to be. */
+	   }
+	   .logomargin{
+		    margin-top: 100px;
+	   }
+	   .heading{
+		   	font-family: 'Noto Sans TC', sans-serif;
+		   	font-size: 62px;
+		   	letter-spacing: -4px;
+		   	text-transform: uppercase;
+		   	text-align: left;
+		   	margin-top: 70px;
+		   	color: #4f3118;
+	   }
+	   .content-pdf{
+		   	margin: 0 50px;
+	   }
+	   p, label{
+		   	font-size: 12px;
+	   }
+	   p{
+	   }
+	   label input{vertical-align: middle;}
+	   .topmargin1{
+		   	margin-top: 180px;
+	   }
+	   .green-head{
+		   	background: #82944b;
+		   	padding: 4px 13px;
+		   	margin: 20px 0;
+	   }
+	   .green-head h5{
+		   	font-size: 16px; color: #fff; font-weight: bold; line-height: 1; margin-bottom: 0;margin-top: 0;
+	   }
+	   td.borderline{position: relative;}
+	   td.borderline:after { content: ""; position: absolute; background: #000; height: 100%; top: 20px; right: 12px; width: 1px; }
+	   table.col2 tr td{width: calc(100%/2);}
+	   table.col4 tr td{width: calc(100%/4);}
+	   label span{display: block;color: #aba9a6;}
+	   input[type="text"], input[type="email"], input[type="date"], textarea{width: 90%;padding: 2px 3px;text-transform: uppercase;outline: none;border: 1px solid #353030; margin-bottom: 10px;
+	   /*background: url(img/inputbar2.png) repeat; */
+	   letter-spacing: 2px; padding-left: 5px; font-family: Consolas;}
+	   input[type="radio"]{vertical-align: middle;margin-top: 0;}
+	   .terms p{font-family: Arial;width: 95%;}
+	   .fontsize14 p{font-size: 14px;}
+   
